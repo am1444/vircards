@@ -35,5 +35,5 @@ In which:
 3: Use `cargo build` to produce a binary at `./target/debug/vircards`. Move `vircards` into somewhere inside your shell's $PATH.
 
 
-#Exiting
+# Exiting
 Press ctrl+c (^C) to exit.

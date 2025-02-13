@@ -29,5 +29,7 @@ In which:
 
 # Compile
 1: Make sure that you have _cargo_ installed and the latest version of the rust toolchain (via rustup).
+
 2: `cd` into the parent directory (the directory containing this folder).
+
 3: Use `cargo make` to produce a binary at `./target/debug/vircards`. Move `vircards` into somewhere inside your shell's $PATH.

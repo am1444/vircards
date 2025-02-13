@@ -7,13 +7,13 @@ vircards FILE: File is the path of the cardfile.
 **Preparing Cards**
 Flashcards are stored in a cardfile. A cardfile is a simple plaintext file used to store information about cards that you can create with a text editor. The following is an excerpt from an example cardfile:
 
-_La computadora portátil
-Laptop
-BOTHDIR
+_La computadora portátil_
+_Laptop_
+_BOTHDIR_
 
-Descargar
-To download
-FORDIR_
+_Descargar_
+_To download_
+_FORDIR_
 
 The format is as follows:
 

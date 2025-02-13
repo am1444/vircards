@@ -17,11 +17,11 @@ FORDIR_
 
 The format is as follows:
 
-_TERM
+TERM
 
 DEFINITION
 
-DIRECTION_
+DIRECTION
 
 In which:
 

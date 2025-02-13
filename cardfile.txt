@@ -1,0 +1,147 @@
+Guardar
+To save
+BOTHDIR
+
+Grabar
+To record
+BOTHDIR
+
+La aplicación
+Application
+BOTHDIR
+
+La arroba
+@
+BOTHDIR
+
+El mensaje de texto
+Text message
+BACKDIR
+
+La página principal
+Homepage
+BOTHDIR
+
+La pantalla
+Screen
+BOTHDIR
+
+La computadora portátil
+Laptop
+BOTHDIR
+
+Descargar
+To download
+FORDIR
+
+El monitor
+Monitor
+BOTHDIR
+
+Escanear
+To scan
+BOTHDIR
+
+Llamar
+To call
+BOTHDIR
+
+Navegar en Internet
+To browse the web/internet
+BOTHDIR
+
+Poner
+To turn on
+FORDIR
+
+Prender
+To turn on
+FORDIR
+
+To turn on
+Poner / Prender
+FORDIR
+
+Lento
+Slow
+BOTHDIR
+
+Lleno
+Full
+BOTHDIR
+
+La gasolinera
+Gas station
+BOTHDIR
+
+El tanque
+Tank
+BOTHDIR
+
+El navegador GPS
+GPS
+BOTHDIR
+
+El volante
+Steering wheel
+BOTHDIR
+
+La llanta
+Tire
+BOTHDIR
+
+El capó
+Hood
+FORDIR
+
+El cofre
+Hood
+FORDIR
+
+Hood
+El capó / El cofre
+FORDIR
+
+La autopista
+Highway
+FORDIR
+
+La carretera
+Highway
+FORDIR
+
+Highway
+La carretera / La autopista
+FORDIR
+
+La circulación
+Traffic
+FORDIR
+
+El tráfico
+Traffic
+FORDIR
+
+Traffic
+El tráfico / La circulación
+FORDIR
+
+La licencia
+License
+BOTHDIR
+
+Revisar
+To check
+BOTHDIR
+
+Bajarse de
+To get out of
+BOTHDIR
+
+Manejar
+To drive
+BOTHDIR
+
+Subirse a
+To board
+BOTHDIR

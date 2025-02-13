@@ -18,7 +18,9 @@ FORDIR_
 The format is as follows:
 
 _TERM
+
 DEFINITION
+
 DIRECTION_
 
 In which:

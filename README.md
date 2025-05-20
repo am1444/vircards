@@ -35,11 +35,12 @@ In which:
 -Term is the term that is being studied, like on the front of a flashcard.
 -Definition is the definition of the term, like on the back of a flashcard.
 -Direction can be either "BOTHDIR" or "FORDIR". "BOTHDIR" means that the user will be told the term or definition and then asked for the other one. "FORDIR" means that the user will only ever be given the term and then asked for the definition.
+    Note: If neither FORDIR nor BOTHDIR are present in a single card, the default behaviour is FORDIR.
 
 # Compile
 1: Make sure that you have _cargo_ installed and the latest version of the rust toolchain (via rustup).
 
-2: `cd` into the parent directory (the directory containing this folder).
+2: `cd` into the parent directory (the directory containing this file).
 
 3: Use `cargo build` to produce a binary at `./target/debug/vircards`. Move `vircards` into somewhere inside your shell's $PATH.
 

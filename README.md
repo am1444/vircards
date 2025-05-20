@@ -33,7 +33,9 @@ DIRECTION
 In which:
 
 -Term is the term that is being studied, like on the front of a flashcard.
+
 -Definition is the definition of the term, like on the back of a flashcard.
+
 -Direction can be either "BOTHDIR" or "FORDIR". "BOTHDIR" means that the user will be told the term or definition and then asked for the other one. "FORDIR" means that the user will only ever be given the term and then asked for the definition.
     Note: If neither FORDIR nor BOTHDIR are present in a single card, the default behaviour is FORDIR.
 
